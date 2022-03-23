@@ -1,1 +1,2 @@
 # EMG-signals-based-Pattern-Recognition-System
+The Repository consists of python code for the offline analysis of an EMG-based pattern recognition system. The code indcludes offline data pre-processing, segmentation, feature extraction and classification routines of the system. Coventional time-domain features are used to create feature vector and to perform classification, most popular LDA classifier is used. GUI is also added to make it more interactive.   
